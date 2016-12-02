@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\RVIP3\RVIP3\bin\Debug\RVIP3.exe.config
+c:\users\user\documents\visual studio 2013\Projects\RVIP3\RVIP3\bin\Debug\RVIP3.exe
+c:\users\user\documents\visual studio 2013\Projects\RVIP3\RVIP3\bin\Debug\RVIP3.pdb
+c:\users\user\documents\visual studio 2013\Projects\RVIP3\RVIP3\obj\Debug\RVIP3.exe
+c:\users\user\documents\visual studio 2013\Projects\RVIP3\RVIP3\obj\Debug\RVIP3.pdb
+c:\users\user\documents\visual studio 2013\Projects\RVIP3\RVIP3\obj\Debug\RVIP3.csprojResolveAssemblyReference.cache
